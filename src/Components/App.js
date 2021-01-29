@@ -1,5 +1,5 @@
 import React from 'react';
-import projectData from '../project-data';
+
 import Header from './Header';
 import About from './About';
 import Contact from './Contact';
